@@ -1,5 +1,10 @@
 # GO-JEK-CAR
-Need to design a parking area than issue a ticket to driver printing registration number and color
+
+Need to design a parking area that issues a ticket to driver printing registration number and color. The objective is to provide the nearest parking slot to the driver and in case no parking space is available then retrun a proper message to the drivers. Along with this provide additional funtionality to query following features.
+
+● Registration numbers of all cars of a particular colour.
+● Slot number in which a car with a given registration number is parked.
+● Slot numbers of all slots where a car of a particular colour is parked.
 
 
 It is necessary that the code should be placed in `$GOPATH/src/` folder.
